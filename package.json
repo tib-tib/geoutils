@@ -1,0 +1,9 @@
+{
+  "name": "node-geoutils",
+  "version": "1.0.0",
+  "description": "Country geolocation functions",
+  "main": "index.js",
+  "repository": "git@github.com:tib-tib/geoutils.git",
+  "author": "Thibaut Gatouillat <thibaut.gatouillat@utopiamusic.com>",
+  "license": "MIT"
+}
