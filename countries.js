@@ -243,5 +243,6 @@ module.exports = {
   YT: { latitude: '-12.8275', longitude: '45.166244', country: 'Mayotte' },
   ZA: { latitude: '-30.559482', longitude: '22.937506', country: 'South Africa' },
   ZM: { latitude: '-13.133897', longitude: '27.849332', country: 'Zambia' },
-  ZW: { latitude: '-19.015438', longitude: '29.154857', country: 'Zimbabwe' }
+  ZW: { latitude: '-19.015438', longitude: '29.154857', country: 'Zimbabwe' },
+  ZZ: { country: 'Unknown' }
 }
